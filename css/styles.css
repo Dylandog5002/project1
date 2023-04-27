@@ -370,3 +370,13 @@ box-sizing: border-box;
   margin-right: auto;
   width: 50%;
 }
+
+#bob{
+margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+	font-size: 1.8em;
+	font-family: 'Crimson Pro', serif;
+    background-color: #E4F2EA;
+		text-align: center;
+}
