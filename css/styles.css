@@ -423,3 +423,9 @@ margin: 0 auto;
     background-color: red; 
 }
 
+
+nav{
+  position: absolute; 
+  bottom: 20px; /* Move the nav 20px from the bottom of parent container*/
+}
+
