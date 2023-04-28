@@ -380,3 +380,46 @@ margin: 0 auto;
     background-color: #E4F2EA;
 		text-align: center;
 }
+
+
+
+ .navBarTop {
+    width: 100%;
+    float: left;
+    margin: 0 0 1em 0;
+    padding: 0;
+    background-color: black;
+    border-bottom: 1px solid red;
+	 color: white;
+}
+
+.navBarTop ul {
+    list-style: none;
+    width: 800px;
+    margin: 0 auto;
+    padding: 0; 
+    margin-left: 350px;
+
+}
+
+.navBarTop li {
+    float: left; 
+}
+
+.navBarTop li a {
+    display: block;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-family: "Arial";
+    color: white;
+    border-right: 1px solid #4c4c4c; 
+}
+
+.navBarTop li:first-child a {
+    border-left: 1px solid #4c4c4c; 
+}
+
+.navBarTop li a:hover {
+    background-color: red; 
+}
+
